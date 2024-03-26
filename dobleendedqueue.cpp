@@ -76,8 +76,7 @@ void finset(int a)
         {
             arr[i] = arr[i - 1];
         }
-        r++;
-        arr[f] = a;
+        
     }
 }
 void lDelete()
